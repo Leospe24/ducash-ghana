@@ -109,7 +109,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg mb-1">Email</h3>
-                  <p className="text-blue-200">info@ducashghana.com</p>
+                  <p className="text-blue-200">neonspezzy@gmail.com</p>
                 </div>
               </div>
 
@@ -121,7 +121,7 @@ export default function Contact() {
                   <h3 className="font-semibold text-lg mb-1">WhatsApp</h3>
                   <p className="text-blue-200 mb-2">Quick responses via WhatsApp</p>
                   <a 
-                    href="https://wa.me/233550621006?text=Hello! I'm interested in your currency counting machines."
+                    href="https://wa.me/233207946237?text=Hello! I'm interested in your currency counting machines."
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg transition-colors text-sm font-semibold"

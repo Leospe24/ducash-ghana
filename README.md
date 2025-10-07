@@ -70,10 +70,9 @@ npm run build
 
 ```
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
-```bash
-
+```text
 src/
 ├── components/
 │   ├── common/          # Reusable components (Header, Footer)
@@ -85,31 +84,18 @@ src/
 
 ```
 
-🚀 Deployment
-
-```bash
+## 🚀 Deployment
 
 This project is configured for seamless deployment on Netlify:
+* **Build Command**: `npm run build`
+* **Publish Directory**: `dist`
+* **Auto Deploy**: Enabled via GitHub integration
 
-Build Command: npm run build
+## 📞 Contact & Links
 
-Publish Directory: dist
+* **Live Website**: [View Demo](https://ducash-ghana-ecommerce.netlify.app/)
+* **GitHub Repository**: [Source Code](https://github.com/Leospe24/ducash-ghana)
 
-Auto Deploy: Enabled via GitHub integration
-
-```
-
-📞 Contact & Links
-
-```bash
-
-Live Website: View Demo
-
-GitHub Repository: Source Code
-
-Portfolio: [Your Portfolio Link] ← Add your portfolio link
-
-```
 
 ## 📄 License
 
@@ -119,4 +105,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Built with modern web technologies for optimal performance and developer experience
 React • Vite • Tailwind CSS • Netlify
 </div>
-

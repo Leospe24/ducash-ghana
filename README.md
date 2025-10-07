@@ -9,7 +9,7 @@ A professional, responsive e-commerce website built with modern web technologies
 
 ## 🚀 Live Demo
 
-[View Live Site](https://your-site.netlify.app) *← Update after deployment*
+[View Live Site](https://ducash-ghana-ecommerce.netlify.app/)
 
 ## 📋 Project Overview
 
@@ -111,13 +111,9 @@ Portfolio: [Your Portfolio Link] ← Add your portfolio link
 
 ```
 
-📄 License
+## 📄 License
 
-```bash
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 Built with modern web technologies for optimal performance and developer experience
